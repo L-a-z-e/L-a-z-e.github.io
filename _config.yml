@@ -20,7 +20,7 @@ title                    : "Laze"
 title_separator          : "-"
 subtitle                 : "Dev Blog"
 name                     : "Laze"
-description              : "An amazing website."
+description              : "Dev Blog"
 url                      : "https://L-a-z-e.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "L-a-z-e/Blog"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus", #"discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" #, "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:yysi8771@gmail.com"
+      url: "mailto:yysi8771@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://L-a-z-e.github.io"
+      url: "https://L-a-z-e.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -220,7 +220,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
