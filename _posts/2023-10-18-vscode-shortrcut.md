@@ -9,7 +9,6 @@ tags:
   - ShortCut
 last_modified_at: 2023-10-18T11:01:00
 ---
-
 # VS Code
 
 - 이름 한번에 바꾸기 : shift + f6
@@ -34,4 +33,4 @@ last_modified_at: 2023-10-18T11:01:00
 
 - 매직키2 : alt + enter = 오류 뜰때 해결방법을 제시해줌
 
-![Untitled](/assets/images/post/Untitled.png)
+![vscode_shortcut](/assets/images/post/vscode_shortcut.png)
