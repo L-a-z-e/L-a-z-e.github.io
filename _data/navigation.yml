@@ -3,10 +3,12 @@ main:
   - title: "Main"
     url: https://l-a-z-e.github.io/
   - title: "Categories"
-    url: https://l-a-z-e.github.io/categories/
+    url: /categories/ #https://l-a-z-e.github.io/categories/
   - title: "Tags"
-    url: https://l-a-z-e.github.io/tags/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /tags/ #https://l-a-z-e.github.io/tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
