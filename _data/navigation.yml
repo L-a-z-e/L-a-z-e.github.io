@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Main"
-    url: https://l-a-z-e.github.io/
+    url: laze.blog/
   - title: "Categories"
     url: /categories/ #https://l-a-z-e.github.io/categories/
   - title: "Tags"
     url: /tags/ #https://l-a-z-e.github.io/tags/
   - title: "Pages"
-    url: /page-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /pages/
+  - title: "Collections"
+    url: /collections/
   # - title: "Sitemap"
   #   url: /sitemap/
